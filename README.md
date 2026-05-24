@@ -5,6 +5,7 @@ Personal customizations and configurations for AI tools.
 ## Files
 
 - `instructions.md` — System instructions for AI CLIs (Gemini, etc.)
+- `coding-standards-template.md` — CLAUDE.md template for coding standards (code style, tests, structure, logging)
 - `statusline-command.sh` — Claude Code statusline: context window + rate-limit progress bars
 
 ---
